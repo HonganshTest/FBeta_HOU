@@ -1,7 +1,23 @@
 <p align="center">
 	<img loading="lazy" src="./assets/images/logo.png" alt="FBeta_HOU" height="150">
 </p>
-# FBeta_HOU 
+<h1 align="center"> FBeta_HOU  </h1>
+
+<p align="center">
+    <a href="https://github.com/honganhss/FBeta_HOU" target="blank">
+		<img loading="lazy" src="https://img.shields.io/github/stars/definev/phapdien?style=social" alt="Stars"/>
+	</a>
+    <a href="https://github.com/honganhss/FBeta_HOU" target="blank">
+		<img loading="lazy" src="https://img.shields.io/github/forks/definev/phapdien?style=social" alt="Forks"/>
+	</a>
+	<a href="https://github.com/honganhss/FBeta_HOU/issues" target="blank">
+		<img loading="lazy" src="https://img.shields.io/github/issues/definev/phapdien?style=flat-square&label=Issue" alt="Issues"/>
+	</a>
+	<a href="https://github.com/honganhss/FBeta_HOU/blob/main/LICENSE" target="blank">
+		<img loading="lazy" src="https://img.shields.io/github/license/definev/phapdien?style=flat-square&label=License" alt="License"/>
+    </a>
+</p>
+
 Hệ thống hỗ trợ cảnh báo thiên tai được xây dựng trên nền tảng Budibase nhằm cung cấp một giải pháp nhanh chóng, dễ triển khai và tùy chỉnh cho các tổ chức quản lý rủi ro thiên tai.
 
 ## **Yêu cầu hệ thống**  
