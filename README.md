@@ -17,4 +17,14 @@ hoặc tải file ThamHoa-export-x.tar.gz từ link github trên. (x là mã phi
 
 
 
-# **Hướng dẫn sử dụng Hệ thống Cảnh báo Thiên tai**
+## **Hướng dẫn sử dụng Hệ thống Cảnh báo Thiên tai**
+## **Tính năng hỗ trợ**
+
+* 📖 Tinh năng 1
+* 📦 Tinh năng 2
+* 🔍 Tinh năng 3
+* 🤖 Tinh năng 4
+* 📱 Tinh năng 5
+* 🖥️ Tinh năng 6
+
+# Giới thiệu
