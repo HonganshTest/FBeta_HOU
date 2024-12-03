@@ -5,16 +5,16 @@
 
 <p align="center">
     <a href="https://github.com/honganhss/FBeta_HOU" target="blank">
-		<img loading="lazy" src="https://img.shields.io/github/stars/definev/phapdien?style=social" alt="Stars"/>
+		<img loading="lazy" src="https://img.shields.io/github/stars/honganhss/FBeta_HOU?style=social" alt="Stars"/>
 	</a>
     <a href="https://github.com/honganhss/FBeta_HOU" target="blank">
-		<img loading="lazy" src="https://img.shields.io/github/forks/definev/phapdien?style=social" alt="Forks"/>
+		<img loading="lazy" src="https://img.shields.io/github/forks/honganhss/FBeta_HOU?style=social" alt="Forks"/>
 	</a>
 	<a href="https://github.com/honganhss/FBeta_HOU/issues" target="blank">
-		<img loading="lazy" src="https://img.shields.io/github/issues/definev/phapdien?style=flat-square&label=Issue" alt="Issues"/>
+		<img loading="lazy" src="https://img.shields.io/github/issues/honganhss/FBeta_HOU?style=flat-square&label=Issue" alt="Issues"/>
 	</a>
 	<a href="https://github.com/honganhss/FBeta_HOU/blob/main/LICENSE" target="blank">
-		<img loading="lazy" src="https://img.shields.io/github/license/definev/phapdien?style=flat-square&label=License" alt="License"/>
+		<img loading="lazy" src="https://img.shields.io/github/license/honganhss/FBeta_HOU?style=flat-square&label=License" alt="License"/>
     </a>
 </p>
 
