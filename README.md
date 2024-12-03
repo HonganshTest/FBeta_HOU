@@ -1,3 +1,6 @@
+<p align="center">
+	<img loading="lazy" src="./assets/images/logo.png" alt="FBeta_HOU" height="150">
+</p>
 # FBeta_HOU 
 Hệ thống hỗ trợ cảnh báo thiên tai được xây dựng trên nền tảng Budibase nhằm cung cấp một giải pháp nhanh chóng, dễ triển khai và tùy chỉnh cho các tổ chức quản lý rủi ro thiên tai.
 
@@ -28,3 +31,4 @@ hoặc tải file ThamHoa-export-x.tar.gz từ link github trên. (x là mã phi
 * 🖥️ Tinh năng 6
 
 # Giới thiệu
+## 📝 Tổng quát
