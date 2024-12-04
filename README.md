@@ -52,7 +52,11 @@ Hệ thống hỗ trợ cảnh báo thiên tai được xây dựng trên nền 
 
 ## **Cài đặt và triển khai**  
 ### 1. Clone dự án: 
-[github](https://github.com/honganhss/FBeta_HOU.git)  
+Trước hết, hãy clone dự án về máy tính của bạn:
+
+```bash
+git clone https://github.com/honganhss/FBeta_HOU.git
+```  
 hoặc tải file ThamHoa-export-x.tar.gz từ link github trên. (x là mã phiên bản)
 ### 2. Tạo ứng dụng trong Budibase.  
 - Truy cập vào Budibase, tạo một ứng dụng mới.
@@ -60,7 +64,6 @@ hoặc tải file ThamHoa-export-x.tar.gz từ link github trên. (x là mã phi
 
 
 
-## **Hướng dẫn sử dụng Hệ thống Cảnh báo Thiên tai**
 
 ## **Demo**
 
