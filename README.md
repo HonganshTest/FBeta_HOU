@@ -19,7 +19,17 @@
 </p>
 
 Hệ thống hỗ trợ cảnh báo thiên tai được xây dựng trên nền tảng Budibase nhằm cung cấp một giải pháp nhanh chóng, dễ triển khai và tùy chỉnh cho các tổ chức quản lý rủi ro thiên tai.
-
+## **Ý tưởng bài toán**  
+## **Phương pháp tiếp cận**
+## **Kiến trúc và các tính năng chính**
+### **1.Kiến trúc**
+### **2.Tính năng hỗ trợ**
+* 📖 Tinh năng 1
+* 📦 Tinh năng 2
+* 🔍 Tinh năng 3
+* 🤖 Tinh năng 4
+* 📱 Tinh năng 5
+* 🖥️ Tinh năng 6
 ## **Yêu cầu hệ thống**  
 - **Nền tảng:** Budibase (phiên bản tối thiểu 2.0).  
 - **Máy chủ:** Docker (để triển khai).  
@@ -37,14 +47,6 @@ hoặc tải file ThamHoa-export-x.tar.gz từ link github trên. (x là mã phi
 
 
 ## **Hướng dẫn sử dụng Hệ thống Cảnh báo Thiên tai**
-## **Tính năng hỗ trợ**
 
-* 📖 Tinh năng 1
-* 📦 Tinh năng 2
-* 🔍 Tinh năng 3
-* 🤖 Tinh năng 4
-* 📱 Tinh năng 5
-* 🖥️ Tinh năng 6
+## **Demo**
 
-# Giới thiệu
-## 📝 Tổng quát
