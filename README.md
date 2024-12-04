@@ -17,6 +17,11 @@
 		<img loading="lazy" src="https://img.shields.io/github/license/honganhss/FBeta_HOU?style=flat-square&label=License" alt="License"/>
     </a>
 </p>
+
+
+Hệ thống hỗ trợ cảnh báo thiên tai được xây dựng trên nền tảng Budibase nhằm cung cấp một giải pháp nhanh chóng, dễ triển khai và tùy chỉnh cho các tổ chức quản lý rủi ro thiên tai.
+
+
 ## 🔎 Danh Mục
 
 1. [Ý tưởng bài toán]()
@@ -30,8 +35,7 @@
     - [🔨 Cài Đặt](#🔨-cài-đặt)
 6. [CI/CD](#ci/cd)
 7. [📝 License](#📝-license)
-
-Hệ thống hỗ trợ cảnh báo thiên tai được xây dựng trên nền tảng Budibase nhằm cung cấp một giải pháp nhanh chóng, dễ triển khai và tùy chỉnh cho các tổ chức quản lý rủi ro thiên tai.
+   
 ## **Ý tưởng bài toán**  
 ## **Phương pháp tiếp cận**
 ## **Kiến trúc và các tính năng chính**
