@@ -1,7 +1,7 @@
 <p align="center">
 	<img loading="lazy" src="./assets/images/logo.png" alt="FBeta_HOU" height="150">
 </p>
-<h1 align="center"> FBeta_HOU  </h1>
+<h1 align="center"> FBeta_ </h1>
 
 <p align="center">
     <a href="https://github.com/honganhss/FBeta_HOU" target="blank">
